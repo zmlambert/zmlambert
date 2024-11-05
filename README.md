@@ -1,5 +1,5 @@
 ```md
-im zander, a compsci & cyber undergrad and a cyber masters student
+im zander, a cyber masters student with undergrad degrees in compsci & cyber 
 
 knowing things
 - python
